@@ -1,0 +1,100 @@
+.topbar {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 60px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Left side */
+.topbar-left {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.topbar-contact {
+  color: #333;
+  text-decoration: none;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+
+.topbar-contact i {
+  color: #ff6600;
+  margin-right: 6px;
+  font-size: 15px;
+  position: relative;
+  top: 1px; /* smooth icon alignment */
+}
+
+/* Right side Buttons */
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* ✅ Perfect uniform buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 5px;
+  padding: 7px 14px;
+  min-width: 95px;
+  height: 34px;
+  line-height: 1;
+  color: #fff;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  vertical-align: middle;
+}
+
+.btn i {
+  margin-right: 6px;
+  font-size: 14px;
+  line-height: 1;
+  position: relative;
+  top: -1px; /* fix small vertical misalignment */
+}
+
+/* Button colors */
+.whatsapp-btn {
+  background-color: #25d366;
+}
+
+.whatsapp-btn:hover {
+  background-color: #1ebd57;
+}
+
+.mobile-btn {
+  background-color: #0099ff;
+}
+
+.mobile-btn:hover {
+  background-color: #0085dd;
+}
+
+.login-btn {
+  background-color: #0a0a23;
+}
+
+.login-btn:hover {
+  background-color: #121236;
+}
+
+.register-btn {
+  background-color: #ff6600;
+}
+
+.register-btn:hover {
+  background-color: #e65b00;
+}

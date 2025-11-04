@@ -1,0 +1,135 @@
+/* Full-width background */
+.mobile-app-section {
+  width: 100%;
+  background-color: #f9f9f9;
+  padding: 80px 0;
+  overflow-x: hidden;
+}
+
+/* Wrapper spans the entire width */
+.mobile-app-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 70px;
+  padding: 0 8vw; /* this gives a little breathing room instead of empty space */
+  box-sizing: border-box;
+}
+
+/* ===== Left Image ===== */
+.mobile-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  animation: float 4s ease-in-out infinite;
+}
+
+.mobile-image img {
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+  animation: fadeLeft 1.3s ease-out;
+}
+
+/* ===== Right Text ===== */
+.mobile-content {
+  flex: 1.3;
+  animation: fadeUp 1.3s ease-out;
+}
+
+.mobile-content h2 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #0c1321;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.mobile-content h2 span {
+  color: #ff5a00;
+}
+
+.mobile-content p {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 22px;
+  line-height: 1.8;
+}
+
+.download-btn {
+  background-color: #007bff;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+  padding: 12px 30px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.download-btn:hover {
+  background-color: #005ecc;
+  transform: translateY(-3px);
+}
+
+/* ===== Animations ===== */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-80px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 992px) {
+  .mobile-app-wrapper {
+    flex-direction: column;
+    text-align: center;
+    padding: 0 5vw;
+  }
+
+  .mobile-content {
+    max-width: 95%;
+  }
+
+  .mobile-image img {
+    max-width: 360px;
+  }
+}
+@media (max-width: 576px) {
+  .mobile-image img {
+    max-width: 280px;
+  }
+
+  .mobile-content h2 {
+    font-size: 2rem;
+  }
+}

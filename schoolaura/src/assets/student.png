@@ -1,0 +1,1534 @@
+<!DOCTYPE html>
+<html style="height: 100%;"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content=" #ff5202">
+
+    <title>SCHOOLAURA PROVIDE SMART STUDY AND SCHOOL MANAGEMENT SOLUTION</title>
+    <link rel="stylesheet" href="student_files/color.css">
+    <link rel="stylesheet" href="student_files/reset.css">
+    <link rel="stylesheet" href="student_files/style.css">
+    <link rel="stylesheet" href="student_files/typography.css">
+    <!-- favicon -->
+    <link rel="icon" href="https://www.schoolaura.com/Content/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="student_files/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="student_files/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+    <!-- animation -->
+    <link href="student_files/aos.css" rel="stylesheet">
+
+    <!-- bootstap css-->
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="student_files/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous">
+    <link rel="stylesheet" href="student_files/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous">
+
+
+    
+    <meta property="og:site_name" content="https://schoolaura.com">
+    <meta property="og:url" content="https://erp.schoolaura.com">
+    <meta property="og:title" content="SCHOOLAURA PROVIDE SMART STUDY AND SCHOOL MANAGEMENT SOLUTION">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:type" content="SchoolAura is an Free Education Platform">
+
+    
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://erp.schoolaura.com">
+    <meta property="twitter:title" content="SCHOOLAURA PROVIDE SMART STUDY AND SCHOOL MANAGEMENT SOLUTION">
+    <meta property="twitter:description" content="">
+    <meta property="twitter:image" content="">
+    <meta property="twitter:image:width" content="1200">
+
+
+    <!--Start of Tawk.to Script-->
+    <script src="student_files/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="student_files/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="student_files/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="student_files/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="student_files/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="student_files/twk-app.js" charset="UTF-8" crossorigin="*"></script><script async="" src="student_files/default.js" charset="UTF-8" crossorigin="*"></script><script type="text/javascript">
+        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/5ef127b59e5f6944229119a0/default';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+        }
+    </script>
+    <script type="text/javascript" src="student_files/element.js"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="student_files/m=el_main_css.css"><script type="text/javascript" charset="UTF-8" src="student_files/m=el_main"></script>
+    <script src="student_files/jquery-3.4.1.min.js"></script>    
+    <script src="student_files/main.js"></script>
+<style type="text/css">#mc_embed_signup input.mce_inline_error { border-color:#6B0505; } #mc_embed_signup div.mce_inline_error { margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff; }</style><script charset="utf-8" src="student_files/twk-chunk-2d0d2b7c.js"></script><script charset="utf-8" src="student_files/twk-chunk-2d224aff.js"></script><script charset="utf-8" src="student_files/twk-chunk-2d0aef27.js"></script><script charset="utf-8" src="student_files/twk-chunk-2d0b383d.js"></script><script charset="utf-8" src="student_files/twk-chunk-2d0da3af.js"></script><script charset="utf-8" src="student_files/twk-chunk-4fe9d5dd.js"></script><script charset="utf-8" src="student_files/twk-chunk-7941cc06.js"></script><script charset="utf-8" src="student_files/twk-chunk-6289ff8e.js"></script><script charset="utf-8" src="student_files/twk-chunk-2d0c8092.js"></script><style type="text/css">#p5ickmbk73fg1761977078036 {outline:none !important;
+visibility:visible !important;
+resize:none !important;
+box-shadow:none !important;
+overflow:visible !important;
+background:none !important;
+opacity:1 !important;
+filter:alpha(opacity=100) !important;
+-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important;
+-mz-opacity:1 !important;
+-khtml-opacity:1 !important;
+top:auto !important;
+right:0px !important;
+bottom:0px !important;
+left:auto !important;
+position:fixed !important;
+border:0 !important;
+min-height:0px  !important;
+min-width:0px  !important;
+max-height:none  !important;
+max-width:none  !important;
+padding:0px !important;
+margin:0px !important;
+-moz-transition-property:none !important;
+-webkit-transition-property:none !important;
+-o-transition-property:none !important;
+transition-property:none !important;
+transform:none !important;
+-webkit-transform:none !important;
+-ms-transform:none !important;
+width:auto !important;
+height:auto  !important;
+display:none !important;
+z-index:2000000000 !important;
+background-color:transparent !important;
+cursor:none !important;
+float:none !important;
+border-radius:unset !important;
+pointer-events:auto !important;
+clip:auto !important;
+color-scheme:light !important;}#p5ickmbk73fg1761977078036.widget-hidden {display: none !important;}#p5ickmbk73fg1761977078036.widget-visible {display: block !important;}
+@media print{
+ #p5ickmbk73fg1761977078036.widget-visible { 
+display: none !important;
+ }
+}</style><style type="text/css">.tawk-button-hover[data-v-2fc2d95d]:focus,.tawk-button-hover[data-v-2fc2d95d]:hover{background-color:hsla(0,0%,100%,.2)!important;border-radius:5px!important}</style><style type="text/css">@keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-moz-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-webkit-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}#pmudhhe5nmrs1761977078085.open{animation : tawkMaxOpen .25s ease!important;}@keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-moz-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-webkit-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}#pmudhhe5nmrs1761977078085.closed{animation: tawkMaxClose .25s ease!important}</style></head>
+<body data-aos-easing="ease" data-aos-duration="900" data-aos-delay="300" style="zoom: 1; position: relative; min-height: 100%; top: 0px;">
+    <!-- header -->
+<header>
+    <!-- header "contact info" -->
+    <div class="header-contact" id="moveup">
+        <div class="contact-details">
+            <div class="contact-no">
+                <i class="fas fa-phone-alt"></i>
+                <span><a href="tel:9540349392">+91-9540349392</a></span>
+            </div>
+            <div class="email-details">
+                <a href="mailto:contact@schoolaura.com">
+                    <i class="fas fa-envelope"></i>
+                    <span>contact@schoolaura.com</span>
+                </a>
+            </div>
+        </div>
+        <div class="contact-links">
+            
+            <div class="social-icon">
+                <div class="whatsapp">
+                    <a href="https://wa.link/bop2zv" target="_blank">
+                        <i class="fab fa-whatsapp"></i>
+                        <span>WhatsApp</span>
+                    </a>
+                </div>
+                <div class="mobile-app">
+                    <a href="https://play.google.com/store/apps/details?id=com.schoolaura">
+                        <i class="fas fa-mobile-alt"></i>
+                        <span>Mobile App</span>
+                    </a>
+                </div>
+            </div>
+            <div class="user-btn">
+                <div class="user-login">
+                    <a href="https://www.schoolaura.com/account/login">Login</a>
+                </div>
+                <div class="user-registration">
+                    <a href="https://www.schoolaura.com/account/register">Registration</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- header navbar -->
+    <div class="header-navbar">
+        <div class="header-logo">
+            <a href="https://www.schoolaura.com/">
+                <img src="student_files/logo_school.png" alt="">
+            </a>
+            <div class="logo-cloud"></div>
+        </div>
+
+        <div class="menu-btn"><i class="fas fa-bars"></i></div>
+        <div class="navbar-link">
+            <ul id="MenuItems">
+                <li><a href="https://www.schoolaura.com/">Home</a></li>
+                <li>
+                    <a href="">Exam Solution <i class="fa fa-caret-down"></i></a>
+                    <ul class="sub-menu">
+                        <li><a href="https://www.schoolaura.com/exam?title=1st-12th-exam&amp;catid=1">1<sup>st</sup>-12<sup>th</sup> Exam</a></li>
+                        <li><a href="https://www.schoolaura.com/exam?title=competitive-exam&amp;catid=2">Competitive Exam</a></li>
+                        <li><a href="https://www.schoolaura.com/exam?title=entrance-exam&amp;catid=3">Entrance Exam</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">Online Study <i class="fa fa-caret-down"></i></a>
+                    <ul class="sub-menu">
+                        <li><a href="https://www.schoolaura.com/course?title=1st-12th-courses&amp;catid=1">1<sup>st</sup>-12<sup>th</sup> Class</a></li>
+                        <li><a href="https://www.schoolaura.com/course?title=competitive-courses&amp;catid=2">Competitive Class</a></li>
+                        <li><a href="https://www.schoolaura.com/course?title=entrance-courses&amp;catid=3">Entrance Class</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">Tutor Solution <i class="fa fa-caret-down"></i></a>
+                    <ul class="sub-menu">
+                        <li><a href="https://www.schoolaura.com/find-tutor">Find Tutor</a></li>
+                        <li><a href="http://tutor.schoolaura.com/" target="_blank">Become Tutor</a></li>
+                    </ul>
+                </li>
+                <li><a href="https://www.schoolaura.com/blogs">Blogs</a></li>
+                <li><a href="https://www.schoolaura.com/contact">Contact Us</a></li>
+                <li class="school-management"><a href="https://erp.schoolaura.com/" target="_blank"><i class="fas fa-university"></i> School Management</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+
+    
+
+
+
+
+<!-- smart student section -->
+<div class="hero-banner">
+    <div class="hero-banner-bg"></div>
+    <div class="hero-banner-info aos-init aos-animate" data-aos="zoom-in-up">
+        <div class="hero-text">
+            <div class="hero-heading">
+                <h1>BE  A <span>SMART STUDENT</span></h1>
+                <h4>SchoolAura Is A Smart Education Platform</h4>
+            </div>
+            <div class="hero-services">
+                <div class="hero-services-bg"></div>
+
+                <div class="hero-services-item">
+                    <div class="services-item-heading">
+                        <h4>ENTERANCE <br> Solution</h4>
+                    </div>
+                    <div class="services-item-exam">
+                        <a href="https://www.schoolaura.com/exam?title=entrance-exam&amp;catid=3">Exam</a>
+                    </div>
+                    <div class="services-item-course">
+                        <a href="https://www.schoolaura.com/course?title=entrance-courses&amp;catid=3">Courses</a>
+                    </div>
+                    <div class="services-item-more">
+                        <a href="https://www.schoolaura.com/home/entrance_solutions">READ MORE<i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="hero-services-item">
+                    <div class="services-item-heading">
+                        <h4>COMPETITIVE<br> Solution</h4>
+                    </div>
+                    <div class="services-item-exam">
+                        <a href="https://www.schoolaura.com/exam?title=competitive-exam&amp;catid=2">Exam</a>
+                    </div>
+                    <div class="services-item-course">
+                        <a href="https://www.schoolaura.com/course?title=competitive-courses&amp;catid=2">Courses</a>
+                    </div>
+                    <div class="services-item-more">
+                        <a href="https://www.schoolaura.com/home/competitive_solutions">READ MORE<i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="hero-services-item">
+                    <div class="services-item-heading">
+                        <h4>KG - 12<sup>TH</sup><br> SCHOOL</h4>
+                    </div>
+                    <div class="services-item-exam">
+                        <a href="https://www.schoolaura.com/exam?title=1st-12th-exam&amp;catid=1">Exam</a>
+                    </div>
+                    <div class="services-item-course">
+                        <a href="https://www.schoolaura.com/course?title=1st-12th-courses&amp;catid=1">Courses</a>
+                    </div>
+                    <div class="services-item-more">
+                        <a href="https://www.schoolaura.com/home/school_solutions">READ MORE <i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="hero-services-item">
+                    <div class="services-item-heading">
+                        <h4>TUTOR <br> SOLUTION</h4>
+                    </div>
+                    <div class="services-item-exam">
+                        <a href="https://www.schoolaura.com/find-tutor">Find Tutors</a>
+                    </div>
+                    <div class="services-item-course">
+                        <a href="http://tutor.schoolaura.com/" target="_blank">Become Tutor</a>
+                    </div>
+                    <div class="services-item-more">
+                        <a href="#">READ MORE <i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="login-form-section">
+            <div class="hero-login-form">
+                <div class="form-user-img">
+                    <img src="student_files/user-img.png" alt="">
+                </div>
+                <div class="form-container">
+                    <div class="form-btn">
+                            <ul class="nav nav-tabs">
+                                <li><a class="active" data-toggle="tab" href="#home">Student Login</a></li>
+                                <li><a data-toggle="tab" href="#menu1">Parents Login</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                
+<div id="home" class="tab-pane fade in active">
+<form action="/account/studentLogin" data-ajax="true" data-ajax-begin="loginProcess" data-ajax-failure="loginResp" data-ajax-method="POST" data-ajax-success="loginResp" id="form0" method="post"><input name="__RequestVerificationToken" type="hidden" value="FL-lfTP9uAtP-XEfwbl8srgmAlfmCGHJdBoYvuFg3kLm_Ul1_v0hF5QnuxdrHziT6zu1rYAcv8-Ciay3XAk75wP5_bYS1cJmmkisaRASFVA1">            <div class="loginForm studentLoginForm">
+                <input type="hidden" name="url" value="">
+                <p>
+                    <label>Mobile Number or Key</label>
+                    <input type="text" name="Student_Email" class="form-control requiredField">
+                </p>
+                <p class="password">
+                    <label>Student Password</label>
+                    <input type="password" name="Student_Password" class="form-control requiredField">
+                    <i class="fa fa-eye-slash visiblePassword"></i>
+                </p>
+                <p class="StudentResponse"><span class="errorMsg"></span></p>
+                <p class="text-right"><input type="submit" class="hero-btn" value="Login"></p>
+                <p class="">
+                    <a href="#" style="color:#fff;" data-toggle="modal" data-target="#studentForgotPassword">Forgot Password</a>
+                    <a href="https://www.schoolaura.com/account/register" style="color:#fff;" class="pull-right">Create Account</a>
+                </p>
+            </div>
+</form></div>
+
+<div id="menu1" class="tab-pane fade ">
+<form action="/account/parentLogin" data-ajax="true" data-ajax-failure="ParentLoginResp" data-ajax-method="POST" data-ajax-success="ParentLoginResp" id="form1" method="post"><input name="__RequestVerificationToken" type="hidden" value="I09U4uuTbR9riohh7UegKy4JNj5cNcyV_jAfzaYRYomApKc4amEPSl1Yaj_dFWPRNirZMeQXCC9cCqp5V-8PPh4GtnjHOgvkSYiR8bt0p4I1">        <div class="loginForm">
+            <input type="hidden" name="url">
+            <p>
+                <label>Parent Mobile or Email</label>
+                <input type="text" name="username" class="form-control requiredField">
+            </p>
+            <p>
+                <label>Parent Password</label>
+                <input type="password" name="password" class="form-control requiredField">
+            </p>
+            <p class="ParentsResponse"></p>
+            <p class="text-right"><input type="submit" class="hero-btn" value="Login"></p>
+            <p class="text-center"><a href="#" data-toggle="modal" data-target="#parentForgotPassword">Forgot Password</a></p>
+        </div>
+</form></div>
+
+
+<div class="modal fade" id="studentForgotPassword" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">                
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <h4 class="modal-title" id="exampleModalLabel">Forgot Password</h4>
+            </div>            
+<form action="/account/studentForgotPassword" data-ajax="true" data-ajax-failure="ForgotPassResp" data-ajax-method="POST" data-ajax-success="ForgotPassResp" id="form2" method="post"><input name="__RequestVerificationToken" type="hidden" value="-edpYTP5iW2RBmIk2JmBXrakUc9rW_uaifBabdI3OMyM9sRevyi1eEs7A6HiWixtY79a3jiwAePbgfcdEWJvETUh4ax3PKtWTOzzvlaEH341">                <div class="modal-body">
+                    <p>
+                        <label>Enter Mobile Number</label>
+                        <input type="text" class="form-control" name="Student_Mobile">
+                        <input type="hidden" name="memtype" value="0">
+                        <span class="otpSendButton"><button type="button" role="button" class="btn btn-primary">Send OTP</button></span>
+                    </p>
+                    <p class="hide EnterOTP">
+                        <label>Enter OTP</label>
+                        <input type="number" class="form-control requiredField" name="OTP">                        
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary forgotPassBtn hide">SUBMIT</button>
+                </div>
+</form>        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="parentForgotPassword" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <h4 class="modal-title" id="exampleModalLabel">Forgot Password</h4>
+            </div>
+<form action="/account/parentForgotPassword" data-ajax="true" data-ajax-failure="ForgotFail" data-ajax-method="POST" data-ajax-success="ForgotSuccess" id="form3" method="post"><input name="__RequestVerificationToken" type="hidden" value="LJDOBZcFyhbEtOB_65hyf3nv2CcdRyd2t5bO-pjbbaLj9BJWaVqrTIj8ZTxU7gwihCf2lNq1bLnsQZhjFEUe9kQwvhwplqEJrsgPF5HQbdM1">                <div class="modal-body">
+                    <p>
+                        <label>Enter Registered Email</label>
+                        <input type="text" class="form-control" name="email">
+                        <input type="hidden" name="memtype" value="1">
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">SUBMIT</button>
+                </div>
+</form>        </div>
+    </div>
+</div>
+
+<form action="/account/_sendForgotOTP?Length=7" data-ajax="true" data-ajax-failure="sendForgotOTPResp" data-ajax-method="POST" data-ajax-success="sendForgotOTPResp" id="sendForgotOTP" method="post"><input name="__RequestVerificationToken" type="hidden" value="jgbqpI7mETmHkxDFo2D6F50de2xpuoVUn62gOqalQcmLgtuVwsUBa3lcOGRQpuVeyd0cRUciRzepxIvmZghHwV_549fyt9uHZaOY2TUDEbQ1">    <input type="hidden" name="Student_Mobile" value="">
+</form>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".visiblePassword").click(function () {
+            if ($(this).hasClass("fa-eye-slash")) {
+                $(this).parent().find("input[type='password']").attr("type", "text");
+                $(this).removeClass("fa-eye-slash");
+                $(this).addClass("fa-eye");
+            } else {
+                $(this).parent().find("input[type='text']").attr("type", "password");
+                $(this).removeClass("fa-eye");
+                $(this).addClass("fa-eye-slash");
+            }
+        });
+
+        $(".otpSendButton button").click(function () {
+            var mobile = $(this).parent().parent().find("input[name='Student_Mobile']").val();
+            $("#sendForgotOTP").find("input[name='Student_Mobile']").val(mobile);
+            $("form#sendForgotOTP").submit();
+        });
+    });
+
+    function loginProcess() {
+        $(".errormsg").html("");
+    }
+
+    function loginResp(data) {
+        console.log(data);
+        if (data.errorText == null) {
+            //alert(data);
+            var url = $("input[name='url']").val();
+            if (url != "") {
+                window.location.href = url;
+            } else {
+                window.location.href = "/post";
+            }
+        }
+        else {
+            $(".StudentResponse").html("<span class='errorMsg'>" + data.errorText + "</span>");
+        }
+    }
+
+    function sendForgotOTPResp(resp) {
+        if (resp.message != null) {
+            $(".otpSendButton button").text("Resend");
+            $(".EnterOTP,.forgotPassBtn").removeClass("hide");
+        } else {
+
+        }
+    }
+
+    //==========Student Forgot Password=========
+    function ForgotPassResp(data) {
+        if (data.message != null) {
+            window.location.href = "/account/change_password/" + data.Student_Id;
+        } else {
+            $("#notification .modal-body").append("<p><strong>" + data + "</strong></p>");
+        }
+        $(".modal").modal('hide');
+        $("#notification").modal("show");
+    }
+
+        
+    function ParentLoginResp(data) {
+        console.log(data);
+        if (data.message != null) {
+            //alert(data);
+            window.location.href = "/parent";
+        }
+        else {
+            $(".ParentsResponse").html("<span class='errorMsg'>" + data.errorText + "</span>");
+        }
+    }
+
+
+    </script>
+
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 270"><path fill="#ffffff" fill-opacity="1" d="M0,160L80,144C160,128,320,96,480,96C640,96,800,128,960,138.7C1120,149,1280,139,1360,133.3L1440,128L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
+</div>
+
+<!-- achieve section -->
+<div class="section-achieve">
+    <div class="container aos-init aos-animate" data-aos="fade-up">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="col-lg-4-bg">
+                    <img src="student_files/Clip_003.png" alt="">
+                </div>
+                <ul>
+                    <li>- 256 Courses</li>
+                    <li>- Expert Teachers</li>
+                    <li>- Online Education</li>
+                </ul>
+            </div>
+            <div class="col-lg-8">
+                <div>
+                    <h2 class="sub-heading">
+                        Why Online Study With SchoolAura
+                    </h2>
+                    <p>
+                        The world is changing for the better. Because of
+ the advancement of technology, geek minds have grown tired of doing 
+more work, and carrying books, notebooks and how much to buy books?
+                    </p>
+                    <p>
+                        <strong>Solution:</strong> Now you can find a 
+simple solution with schoolaura. In these days almost everyone has a 
+Smartphone, Tab or Laptop. So just open your device and start your study
+ from anywhere anytime while you are travelling, sitting in the park, 
+and etc.
+                    </p>
+                    <p>Now Use your time and gain knowledge in every second and Use your device for right things not for waste your time</p>
+                </div>
+            </div>
+        </div>
+        <div class="row aos-init" data-aos="fade-up">
+            <img src="student_files/Layer-20.png" alt="banner-2">
+        </div>
+    </div>
+</div>
+
+<!-- educaional section -->
+<div class="education-section">
+    <div class="container">
+        <div class="row">
+            <h1 class="main-heading">
+                PROVIDE <br><span>BEST EDUCATIONAL </span>
+            </h1>
+        </div>
+    </div>
+
+    <!-- horizontal-tabbed-menu -->
+    <div class="horizontal-tabbed-menu menu-1">
+        <div class="container">
+            <div class="row educational-tabbed-menu aos-init" data-aos="fade-up">
+                <div class="col-3" style="padding:0;">
+                    <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#school" role="tab" aria-controls="v-pills-home" aria-selected="true">School</a>
+                        <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#competitive" role="tab" aria-controls="v-pills-profile" aria-selected="false">Competitive</a>
+                        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#entrance" role="tab" aria-controls="v-pills-messages" aria-selected="false">Enterance</a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#tutors" role="tab" aria-controls="v-pills-settings" aria-selected="false">Tutors</a>
+                    </div>
+                </div>
+                <div class="col-9">
+                    <div class="tab-content" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="school" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                            <!-- Entrance card -->
+                            <div class="tab-content-data">
+                                    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=13&amp;Exam_Type=1">
+                <h5>
+11th Class</h5>
+                <h6>182+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=14&amp;Exam_Type=1">
+                <h5>
+12th Class</h5>
+                <h6>178+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=8&amp;Exam_Type=1">
+                <h5>
+6th Class</h5>
+                <h6>151+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=9&amp;Exam_Type=1">
+                <h5>
+7th Class</h5>
+                <h6>150+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=12&amp;Exam_Type=1">
+                <h5>
+10th Class</h5>
+                <h6>150+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=11&amp;Exam_Type=1">
+                <h5>
+9th Class</h5>
+                <h6>141+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=10&amp;Exam_Type=1">
+                <h5>
+8th Class</h5>
+                <h6>135+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=7&amp;Exam_Type=1">
+                <h5>5th Class</h5>
+                <h6>87+</h6>
+            </a>
+        </div>
+    </div>
+
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="competitive" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                            <div class="tab-content-data">
+                                    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=24&amp;Exam_Type=1">
+                <h5>SSC CHSL</h5>
+                <h6>29+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=23&amp;Exam_Type=1">
+                <h5>SSC CGL</h5>
+                <h6>15+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=28&amp;Exam_Type=1">
+                <h5>UPSC IAS</h5>
+                <h6>8+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=40&amp;Exam_Type=1">
+                <h5>SBI Clerk</h5>
+                <h6>5+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=25&amp;Exam_Type=1">
+                <h5>SSC CPO</h5>
+                <h6>5+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=27&amp;Exam_Type=1">
+                <h5>SSC MTS</h5>
+                <h6>5+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=41&amp;Exam_Type=1">
+                <h5>SBI PO</h5>
+                <h6>3+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=44&amp;Exam_Type=1">
+                <h5>RBI Grade B</h5>
+                <h6>3+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=32&amp;Exam_Type=1">
+                <h5>UPSC CAPF</h5>
+                <h6>3+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=37&amp;Exam_Type=1">
+                <h5>IBPS Clerk</h5>
+                <h6>3+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=21&amp;Exam_Type=1">
+                <h5>SSC JE</h5>
+                <h6>2+</h6>
+            </a>
+        </div>
+    </div>
+
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="entrance" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                            <div class="tab-content-data">
+                                    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=70&amp;Exam_Type=1">
+                <h5>VITEEE</h5>
+                <h6>6+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=71&amp;Exam_Type=1">
+                <h5>CUCET</h5>
+                <h6>6+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=45&amp;Exam_Type=1">
+                <h5>CAT</h5>
+                <h6>5+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=51&amp;Exam_Type=1">
+                <h5>XAT</h5>
+                <h6>4+</h6>
+            </a>
+        </div>
+    </div>
+    <div class="entrance-exam">
+        <div class="entrance-img">
+            <h1>N</h1>
+        </div>
+        <div class="entrance-info">
+            <a href="https://www.schoolaura.com/mcq-exam?Category_Id=46&amp;Exam_Type=1">
+                <h5>MAT</h5>
+                <h6>1+</h6>
+            </a>
+        </div>
+    </div>
+
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="tutors" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                            <div class="tab-content-data">
+                                <!-- Tutor card -->
+                                <h4 style="padding:30px;text-align:center;">Coming Soon</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<section class="container-fluid benefitSection">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="main-heading text-center">
+                    BENEFITS OF SCHOOLAURA <br><span>FOR STUDENT</span>
+                </h1>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <div class="benefitBox">
+                    <i class="fa fa-tasks"></i>
+                    <h4>Task Activities</h4>
+                    <p>Daily assignments and tasks can be easily 
+completed through online availability of information. Subject wise 
+homework can  be submitted online which helps students to finish their 
+tasks online.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="benefitBox">
+                    <i class="fa fa-file"></i>
+                    <h4>Exam Results</h4>
+                    <p>Exam and assessment results of each individual 
+student can be seen. The report cards will be generated online for each 
+individual student.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="benefitBox">
+                    <i class="fa fa-info"></i>
+                    <h4>Notice Updates</h4>
+                    <p>The necessary announcements and updates will reach to the students and parents quickly.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="benefitBox">
+                    <i class="fa fa-eye"></i>
+                    <h4>Monitoring</h4>
+                    <p>All the essential academic and administrative 
+tasks can be easily monitored, such as students profile, exam results, 
+fee details, transportation details etc.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="benefitBox">
+                    <i class="fa fa-link"></i>
+                    <h4>Connectivity</h4>
+                    <p>When all the information is available online, and is shared regularly with parents and students transparency will be maintained.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="benefitBox">
+                    <i class="fa fa-share"></i>
+                    <h4>Planning &amp; Sharing</h4>
+                    <p>It becomes important nowadays for students to 
+share their thoughts and ideas, SchoolAura Smart Education Platform will
+ provide you a perfect stage to showcase and share your brilliant ideas.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- happy clients section -->
+<div class="happy-client" style="padding:0;">
+    <div class="row" style="margin:0;">
+        <div class="col-sm-4" style="background: url(/Content/new_assets/images/school_aura_app.jpg) no-repeat;background-size:cover;height:400px;">
+        </div>
+        <div class="col-sm-8" style="padding:50px 20px;">
+            <h1 class="main-heading">Easy to Access with <span>Mobile APP</span></h1>
+            <p>
+                If you're looking for easily accessible resources for 
+your classroom, then you're in the right place. Online learning with the
+ Android app is very easy to access.  That's why we've hand-curated the 
+School Aura free app and website. Easy to use and learn!
+            </p>
+            <p>To learn online, you need to be reasonably comfortable 
+with Smart Mobile Phone, Tab, Laptops, and the internet. The advantage 
+of learning online via an android app is that you can pause the 
+video/audio whenever you need to take notes or simply absorb what has 
+been said. Another fantastic feature of online learning is that you can 
+re-listen to different parts as needed, which is something you can't do 
+in a live lecture!</p>
+            <p><a href="https://play.google.com/store/apps/details?id=com.schoolaura" target="_blank" class="btn btn-primary"><i class="fas fas-android"></i> Download Now</a></p>
+        </div>
+    </div>
+</div>
+
+<!-- spreading secction -->
+<div class="spreading-section">
+    <div class="container aos-init" data-aos="fade-up">
+        <div class="row">
+            <div class="col-lg-8">
+                <div>
+                    <h1 class="main-heading">
+                        Benefits of<br><span>Online Education</span>
+                    </h1>
+                    <p>
+                        Online Education increases engagement by adding a
+ human element. Studying in the comfort of your own home is convenient,
+                        but there are various other advantages of online
+ study. It's especially beneficial for students who aren't as 
+self-sufficient or
+                        who are used to the traditional educational 
+model of "teacher and class."
+                    </p>
+                    <ul style="list-style:disc;list-style-position:inside;margin-bottom:60px;">
+                        <li>Time and Location Flexibility</li>
+                        <li>Find Unlimited Course Category</li>
+                        <li>No Need to Carry Books</li>
+                        <li>Get Access in any mobile, Tab, Laptop with your credential</li>
+                        <li>Use your time when you are traveling, Outing and free time</li>
+                        <li>Exam Practice before exam</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <img src="student_files/spreading.png" alt="">
+            </div>
+        </div>
+    </div>
+
+    <div class="spreading-stats aos-init" data-aos="fade-up">
+        <div class="container">
+            <div class="spreading-stats-bg">
+                <img src="student_files/Clip.png" alt="">
+            </div>
+
+            <div class="row">
+                <div class="col-md-3">
+                    <h4>10000+</h4>
+                    <h6>Total Exams</h6>
+                </div>
+
+                <div class="col-md-3">
+                    <h4>600+</h4>
+                    <h6>Courses</h6>
+                </div>
+
+                <div class="col-md-3">
+                    <h4>3000+</h4>
+                    <h6>Sucess Stories</h6>
+                </div>
+
+                <div class="col-md-3">
+                    <h4>4.5/5</h4>
+                    <h6>Rating</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- happy clients section -->
+<div class="happy-client">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 aos-init" data-aos="fade-up">
+                <img src="student_files/client.png" alt="">
+            </div>
+            <div class="col-lg-8">
+                <h1 class="main-heading">
+                    WE <br> <span>ARE SPREADING</span>
+                </h1>
+                <div class="happy-client-stats">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="client-stats-item aos-init" data-aos="zoom-in-up">
+                                    <div class="client-stats-item-img">
+                                        <img src="student_files/client-1.png" alt="">
+                                    </div>
+                                    <div class="client-stats-item-nos">
+                                        <h4>108+</h4>
+                                        <h6>Happy School</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="client-stats-item aos-init" data-aos="zoom-in-up">
+                                    <div class="client-stats-item-img">
+                                        <img src="student_files/client-2.png" alt="">
+                                    </div>
+                                    <div class="client-stats-item-nos">
+                                        <h4>58030+</h4>
+                                        <h6>Students</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="client-stats-item aos-init" data-aos="zoom-in-up">
+                                    <div class="client-stats-item-img">
+                                        <img src="student_files/client-3.png" alt="">
+                                    </div>
+                                    <div class="client-stats-item-nos">
+                                        <h4>5360+</h4>
+                                        <h6>Happy Parents</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="client-stats-item aos-init" data-aos="zoom-in-up">
+                                    <div class="client-stats-item-img">
+                                        <img src="student_files/client-4.png" alt="">
+                                    </div>
+                                    <div class="client-stats-item-nos">
+                                        <h4>10+</h4>
+                                        <h6>Happy Tutors</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- image gallery -->
+
+<div class="gallery-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 gallery-img-bg">
+                <iframe style="width: 100%; position: absolute; height: 390px;" src="student_files/tnAy4eAjllQ.htm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+            <div class="col-lg-6">
+                <div class="gallery-detail aos-init" data-aos="fade-up">
+                    <h1 class="main-heading">
+                        VISIT OUR CAMPUS WITH <span>IMAGE GALLERY</span>
+                    </h1>
+                    <p class="text">
+                        Even slightly believable. If you are going use a passage of Lorem Ipsum need
+                    </p>
+                    <h2 class="main-heading">
+                        OR WATCH WITH VIDEO
+                    </h2>
+                    <a href="https://www.youtube.com/channel/UCvRhLCkWWteH688WzkoV5zg/videos" target="_blank"> <i class="fas fa-play"></i>PLAY NOW</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- parets review slider -->
+<div class="parents-review">
+    <div class="container aos-init" data-aos="fade-up">
+        <h1 class="main-heading">
+            WHAT <span>PARENT SAYS</span>
+        </h1>
+        <div class="row">
+            <div class="parent-slider owl-carousel owl-theme owl-loaded owl-drag">
+
+                
+
+                
+
+                
+
+                
+
+                
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2012px, 0px, 0px); transition: 0.25s; width: 3738px;"><div class="owl-item cloned" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-3.png">
+                        </div>
+                        <div class="user-info">
+                            <h4>Rakesh Sharma</h4>
+                            <small>Faridabad, Haryana</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">A parent who has a phobia for 
+math would dread to see her child going through the same. I am glad we 
+found School Aura, which gave a great teacher and a great platform for 
+learning.</p>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-4.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Varun Kasyap</h4>
+                            <small>Uttar Pradesh</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">School Aura Teachers make sure one understands the concept by giving everyday observations. Thank You!</p>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-5.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Vishal Kumar</h4>
+                            <small>Delhi</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">"My daughter used to despise 
+math, but now she can confidently take math tests." She's become 
+enamoured with math, which is fantastic!" Thank You School Aura for your
+ tremendous support.</p>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-6.jpg" alt="">
+                        </div>
+                        <div class="user-info">
+                            <h4>Ravi Kaushal</h4>
+                            <small>Indore, Madhya Pradesh</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">Excellent teacher with a 
+fantastic teaching method; if I had had this teacher in school, I 
+believe I would have achieved my goal of becoming a lecturer."</p>
+                    </div>
+                </div></div><div class="owl-item" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user2.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Rasmi Panday</h4>
+                            <small>Delhi</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">I have seen my son go from 
+hating math to absolutely loving it. His marks have improved so much 
+from last year. He looks forward to attending math sessions taken by …. 
+Thank you, School Aura, for making math so much fun for my child! :)</p>
+                    </div>
+                </div></div><div class="owl-item" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-3.png">
+                        </div>
+                        <div class="user-info">
+                            <h4>Rakesh Sharma</h4>
+                            <small>Faridabad, Haryana</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">A parent who has a phobia for 
+math would dread to see her child going through the same. I am glad we 
+found School Aura, which gave a great teacher and a great platform for 
+learning.</p>
+                    </div>
+                </div></div><div class="owl-item" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-4.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Varun Kasyap</h4>
+                            <small>Uttar Pradesh</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">School Aura Teachers make sure one understands the concept by giving everyday observations. Thank You!</p>
+                    </div>
+                </div></div><div class="owl-item active" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-5.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Vishal Kumar</h4>
+                            <small>Delhi</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">"My daughter used to despise 
+math, but now she can confidently take math tests." She's become 
+enamoured with math, which is fantastic!" Thank You School Aura for your
+ tremendous support.</p>
+                    </div>
+                </div></div><div class="owl-item active" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-6.jpg" alt="">
+                        </div>
+                        <div class="user-info">
+                            <h4>Ravi Kaushal</h4>
+                            <small>Indore, Madhya Pradesh</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">Excellent teacher with a 
+fantastic teaching method; if I had had this teacher in school, I 
+believe I would have achieved my goal of becoming a lecturer."</p>
+                    </div>
+                </div></div><div class="owl-item cloned active" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user2.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Rasmi Panday</h4>
+                            <small>Delhi</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">I have seen my son go from 
+hating math to absolutely loving it. His marks have improved so much 
+from last year. He looks forward to attending math sessions taken by …. 
+Thank you, School Aura, for making math so much fun for my child! :)</p>
+                    </div>
+                </div></div><div class="owl-item cloned active" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-3.png">
+                        </div>
+                        <div class="user-info">
+                            <h4>Rakesh Sharma</h4>
+                            <small>Faridabad, Haryana</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">A parent who has a phobia for 
+math would dread to see her child going through the same. I am glad we 
+found School Aura, which gave a great teacher and a great platform for 
+learning.</p>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-4.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Varun Kasyap</h4>
+                            <small>Uttar Pradesh</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">School Aura Teachers make sure one understands the concept by giving everyday observations. Thank You!</p>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 277.5px; margin-right: 10px;"><div class="item">
+                    <div class="user">
+                        <div class="user-img">
+                            <img src="student_files/user-5.jpg">
+                        </div>
+                        <div class="user-info">
+                            <h4>Vishal Kumar</h4>
+                            <small>Delhi</small>
+                        </div>
+                    </div>
+                    <div class="user-testi-info">
+                        <p class="text">"My daughter used to despise 
+math, but now she can confidently take math tests." She's become 
+enamoured with math, which is fantastic!" Thank You School Aura for your
+ tremendous support.</p>
+                    </div>
+                </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+        </div>
+    </div>
+</div>
+
+   <!-- newsletter subscription -->
+<div class="newsletter-section">
+    <div class="container aos-init" data-aos="fade-up">
+        <div class="newsletter-section-bg">
+            <img src="student_files/Clip_002.png" alt="">
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <h1 class="main-heading">SUBSCRIBE OUR <br> <span>NEWSLETTER</span></h1>
+            </div>
+            <div class="col-lg-6">
+                <div id="mc_embed_signup">
+                    <form action="https://schoolaura.us1.list-manage.com/subscribe/post?u=a461c8cb6a5e0b972495dbc33&amp;id=3e4b03d64f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+                        <div id="mc_embed_signup_scroll">
+                            <div class="mc-field-group">
+                                <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address" aria-required="true">
+                                <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button">Subscribe</button>
+                            </div>
+                            <div id="mce-responses" class="clear">
+                                <div class="response" id="mce-error-response" style="display:none"></div>
+                                <div class="response" id="mce-success-response" style="display:none"></div>
+                            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a461c8cb6a5e0b972495dbc33_3e4b03d64f" tabindex="-1"></div>                            
+                        </div>
+                    </form>
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- footer links -->
+
+<div class="footer-link">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up">
+                <div class="about-us">
+                    <h4>About US</h4>
+                    <p>SchoolAura Smart Education Platform is a step 
+towards making learning better and effective for the students and help 
+to acheiving their goals.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="https://www.schoolaura.com/about"><i class="fas fa-angle-right"></i>About Us</a></li>
+                    <li><a href="https://www.schoolaura.com/benefits"><i class="fas fa-angle-right"></i>Benefits</a></li>
+                    <li><a href="https://www.schoolaura.com/blogs"><i class="fas fa-angle-right"></i>Blogs</a></li>
+                    <li><a href="#"><i class="fas fa-angle-right"></i>Testimonials</a></li>
+                    <li><a href="https://www.schoolaura.com/features"><i class="fas fa-angle-right"></i>Featurs</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up">
+                <h4>Help &amp; Support</h4>
+                <ul>
+                    <li><a href="#"><i class="fas fa-angle-right"></i>Services</a></li>
+                    <li><a href="#"><i class="fas fa-angle-right"></i>Support</a></li>
+                    <li><a href="#"><i class="fas fa-angle-right"></i>Terms &amp; condition</a></li>
+                    <li><a href="https://www.schoolaura.com/term_conditions"><i class="fas fa-angle-right"></i>Privacy Policy</a></li>
+                    <li><a href="#"><i class="fas fa-angle-right"></i>Sitemap</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-sm-6 aos-init" data-aos="fade-up">
+                <h4>Follow Us</h4>
+                <div class="footer-social-icon">
+                    <a href="https://www.facebook.com/schoolaura/" target="_blank"><img src="student_files/fb.png" alt=""></a>
+                    <a href="https://instagram.com/schoolaura/" target="_blank"><img src="student_files/insta.png" alt=""></a>
+                    <br>
+                    <a href="https://twitter.com/school_aura" target="_blank"><img src="student_files/twitter.png" alt=""></a>
+                    <a href="https://wa.link/bop2zv" target="_blank"><img src="student_files/whatsapp.png" alt=""></a>
+                </div>
+            </div>
+            <div class="move-top">
+                <a href="#moveup"><i class="fas fa-angle-up"></i></a>
+            </div>
+        </div>
+        <div class="footer-contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="footer-contact-item-img">
+                            <i class="fas fa-phone-alt"></i>
+                        </div>
+                        <div class="footer-contact-item-info">
+                            <h4>CaLL US</h4>
+                            <h5><a href="tel:9540349392" itemprop="tel">+91-9540349392</a></h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="footer-contact-item-img">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="footer-contact-item-info">
+                            <h4>MAIL US</h4>
+                            <h5><a href="mailto:contact@schoolaura.com" itemprop="email">contact@schoolaura.com</a></h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="footer-contact-item-img">
+                            <i class="fas fa-map-marker"></i>
+                        </div>
+                        <div class="footer-contact-item-info">
+                            <h4>Office Address</h4>
+                            <h5 itemprop="address">
+                                E 44/3, Pocket D, Okhla Phase II, Okhla Industrial Area, New Delhi,
+                                Delhi 110020, India
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- copyright section -->
+<div class="footer-copyright">
+    <p class="col-sm-6">2021 © SchoolAura. All Right Reserved</p>
+    <p class="col-sm-6">Design &amp; Development by <a href="http://insoftlink.com/" target="_blank">Insoftlink Software</a></p>
+</div>
+
+
+<script src="student_files/jquery.unobtrusive-ajax.min.js"></script>
+<!-- bootstrap -->
+
+<script src="student_files/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+<!-- animation -->
+<script src="student_files/aos.js"></script>
+<script type="text/javascript">
+    AOS.init({
+        offset: 50,
+        duration: 900,
+        delay: 300,
+    });
+</script>
+
+<script src="student_files/owl.carousel.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $('.tutor-slider').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            760: {
+                items: 1
+            },
+            1000: {
+                items: 2
+            },
+            1200: {
+                items: 2
+            }
+        }
+    });
+
+    $('.parent-slider').owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: false,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            760: {
+                items: 2
+            },
+            1000: {
+                items: 3
+            },
+            1200: {
+                items: 4
+            }
+        }
+    })
+</script>
+
+
+
+<script type="text/javascript" src="student_files/mc-validate.js"></script>
+<script type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[3] = 'ADDRESS'; ftypes[3] = 'address'; fnames[4] = 'PHONE'; ftypes[4] = 'phone'; fnames[5] = 'BIRTHDAY'; ftypes[5] = 'birthday'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
+    <div class="modal fade" id="notification" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Notification</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr"><img src="student_files/24px.svg" width="24" height="24" alt=""><div class=" VIpgJd-yAWNEb-hvhgNd-IuizWc-i3jM8c " dir="ltr">Original text</div></div><div class="VIpgJd-yAWNEb-hvhgNd-k77Iif"><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Rate this translation</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Your feedback will be used to help improve Google Translate</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Good translation" aria-label="Good translation" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Poor translation" aria-label="Poor translation" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div>
+
+
+
+
+
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><div id="p5ickmbk73fg1761977078036" class="widget-visible"><iframe src="student_files/a_006.htm" frameborder="0" scrolling="no" width="64px" height="60px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:20px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:60px !important; min-width:64px !important; max-height:60px !important; max-width:64px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:64px !important; height:60px !important; display:block !important; z-index:1000003 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="nudcnd1s9l241761977078048" class="" title="chat widget"></iframe><iframe src="student_files/a_006.htm" frameborder="0" scrolling="no" width="350px" height="520px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:98px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:520px !important; min-width:350px !important; max-height:520px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:520px !important; display:none !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:18px !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="pmudhhe5nmrs1761977078085" class="" title="chat widget"></iframe><iframe src="student_files/a_006.htm" frameborder="0" scrolling="no" height="30px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:30px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:45px !important; min-width:350px !important; max-height:45px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:45px !important; display:none !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="uh8oj00cups81761977078090" class="" title="chat widget"></iframe><iframe src="student_files/a_006.htm" frameborder="0" scrolling="no" width="360px" height="145px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:90px; left:auto !important; position:fixed !important; border:0 !important; min-height:145px !important; min-width:360px !important; max-height:145px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:145px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="l2te4fn5a7jc1761977078076" class="" title="chat widget"></iframe><iframe src="student_files/a_006.htm" frameborder="0" scrolling="no" width="124px" height="95px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:0px !important; bottom:30px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:95px !important; min-width:124px !important; max-height:95px !important; max-width:124px !important; padding:0 !important; margin:0px 0 0 0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:rotate(0deg) translateZ(0); -webkit-transform:rotate(0deg) translateZ(0); -ms-transform:rotate(0deg) translateZ(0); width:124px !important; height:95px !important; display:block !important; z-index:1000004 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important; -moz-transform:rotate(0deg) translateZ(0); -o-transform:rotate(0deg) translateZ(0); transform-origin:0; -moz-transform-origin:0; -webkit-transform-origin:0; -o-transform-origin:0; -ms-transform-origin:0;" id="l2kime2nf1os1761977078065" class="" title="chat widget"></iframe></div></body></html>

@@ -1,0 +1,145 @@
+.visit-section {
+  background-color: #efefef; /* ✅ Slight light-gray background like image */
+  padding: 80px 100px;
+  font-family: "Poppins", sans-serif;
+}
+
+.visit-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+  background-color: #f6f6f6; /* ✅ inner box slightly lighter than outer */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  padding: 0;
+}
+
+/* Left side - video */
+.video-side {
+  flex: 1;
+  background-color: #0b132b; /* ✅ dark navy background strip */
+  position: relative;
+}
+
+.video-frame {
+  background-color: #000;
+  border-top: 6px solid #0b132b;
+  border-bottom: 6px solid #0b132b; /* ✅ bottom strip added like image */
+  width: 100%;
+  height: 350px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Right side - content */
+.text-side {
+  flex: 1;
+  background-color: #f2f2f2; /* ✅ light gray background box like screenshot */
+  padding: 80px 70px;
+}
+
+.text-side h2 {
+  font-size: 2.3rem;
+  font-weight: 800;
+  color: #0b132b;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.highlight {
+  color: #ff4b00;
+}
+
+.underline {
+  width: 80px;
+  height: 2px;
+  background-color: #0b132b;
+  margin: 20px 0;
+}
+
+.text-side p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 25px;
+  line-height: 1.7;
+}
+
+.text-side h3 {
+  font-size: 1.9rem;
+  color: #0b132b;
+  margin-bottom: 30px;
+  font-weight: 800;
+}
+
+.play-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.play-btn i {
+  color: #ff4b00;
+  font-size: 1.6rem;
+}
+
+.play-btn span {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #0b132b;
+}
+
+.play-btn:hover span {
+  color: #ff4b00;
+}
+
+/* Animation */
+.fade-left {
+  opacity: 0;
+  transform: translateX(-50px);
+  animation: slideLeft 1.2s ease forwards;
+}
+
+.fade-right {
+  opacity: 0;
+  transform: translateX(50px);
+  animation: slideRight 1.2s ease forwards;
+}
+
+@keyframes slideLeft {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideRight {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .visit-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .video-frame {
+    height: 250px;
+  }
+
+  .text-side {
+    margin-top: 30px;
+    padding: 40px 20px;
+  }
+
+  .text-side h2 {
+    font-size: 1.8rem;
+  }
+}
