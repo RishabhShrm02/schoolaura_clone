@@ -1,0 +1,123 @@
+/* Remove overflow, lock screen center */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.online-section {
+  width: 100%;
+  background-color: #fff;
+  padding: 80px 5%;
+  position: relative;
+  overflow: hidden;
+}
+
+/* FLEX CONTAINER */
+.online-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap; /* for smaller screens */
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* LEFT BLUE ANGLED BOX */
+.blue-box {
+  background-color: #0b1a45;
+  color: white;
+  padding: 80px 50px;
+  width: 350px;
+  clip-path: polygon(0 0, 100% 0, 80% 100%, 0% 100%);
+  flex-shrink: 0;
+}
+
+.blue-box ul {
+  list-style: none;
+}
+
+.blue-box li {
+  font-size: 24px;
+  margin-bottom: 14px;
+}
+
+/* RIGHT SIDE TEXT */
+.text-content {
+  flex: 1;
+  min-width: 280px;
+  padding-left: 40px;
+}
+
+.text-content h2 {
+  font-size: 34px;
+  font-weight: 700;
+  color: #0b1a45;
+  margin-bottom: 18px;
+}
+
+.text-content p {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 18px;
+}
+
+/* IMAGE BELOW SECTION */
+.online-image {
+  text-align: center;
+  margin-top: 50px;
+  width: 100%;
+  overflow: hidden;
+  animation: floatSoft 5s ease-in-out infinite;
+}
+
+.online-image img {
+  width: 85%;
+  max-width: 950px;
+  height: auto;
+  position: relative;
+  top: 10px;
+}
+
+/* FLOAT ANIMATION */
+@keyframes floatSoft {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* RESPONSIVE */
+@media (max-width: 1024px) {
+  .online-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .blue-box {
+    clip-path: none;
+    width: 100%;
+    padding: 60px 20px;
+  }
+
+  .text-content {
+    width: 100%;
+    padding: 0;
+    margin-top: 30px;
+  }
+
+  .online-image img {
+    width: 90%;
+  }
+}
